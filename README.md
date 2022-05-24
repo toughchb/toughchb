@@ -1,4 +1,5 @@
-### Hi there 👋
+### 안녕하세요 :bow:
+## 힙한 백엔드 개발자가 되고 싶습니다. 고인물이 되기 까지 크나큰 여정
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toughchb)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
